@@ -1,4 +1,5 @@
-# The WORLD is YOURS :earth_africa:
+# The WORLD is YOURS
+
 ![Image of Yaktocat](https://octodex.github.com/images/steroidtocat.png)
 
 ``` python
