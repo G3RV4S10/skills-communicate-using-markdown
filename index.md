@@ -1,1 +1,1 @@
-  # The WOLRD is YOURS
+  # The WORLD is YOURS :earth_africa:
