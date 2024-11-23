@@ -7,3 +7,8 @@ print("The World..")
 ``` javascript
 var myVar = "Is beautiful!";
 ```
+### To-Do List 
+- [x] Introduce myself to the world
+- [x] I was introduced to the world
+- [ ] Connect with like-minded people
+- [x] Learn something new every day
